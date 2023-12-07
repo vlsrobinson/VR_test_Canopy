@@ -1,7 +1,7 @@
 {
-  "collection": "https://digitalcollections.lib.washington.edu/iiif/2/korean/manifest.json",
+  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/1c2e2200-c12d-4c7f-8b87-a935c349898a?as=iiif&size=500",
   "featured": [
-    "https://cdm16786.contentdm.oclc.org/iiif/korean:138/manifest.json"
+    "https://api.dc.library.northwestern.edu/api/v2/works/0d8d4264-ecad-4c03-8e87-248414d643c2?as=iiif"
   ],
   "metadata": ["Author", "Place of Publication"]
 }
