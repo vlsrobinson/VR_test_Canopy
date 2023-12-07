@@ -1,1 +1,1 @@
-{"@context":"https://iiif.io/api/presentation/3/context.json","id":"https://vlsrobinson.github.io/VR_test_Canopy/api/facet/author.json","type":"Collection","label":{"none":["Author"]},"summary":{"none":["0"]},"items":[]}
+{"@context":"https://iiif.io/api/presentation/3/context.json","id":"https://vlsrobinson.github.io/vr-test-canopy/api/facet/author.json","type":"Collection","label":{"none":["Author"]},"summary":{"none":["0"]},"items":[]}

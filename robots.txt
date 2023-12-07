@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://vlsrobinson.github.io/VR_test_Canopy
+Host: https://vlsrobinson.github.io/vr-test-canopy
 
 # Sitemaps
-Sitemap: https://vlsrobinson.github.io/VR_test_Canopy/sitemap.xml
+Sitemap: https://vlsrobinson.github.io/vr-test-canopy/sitemap.xml
