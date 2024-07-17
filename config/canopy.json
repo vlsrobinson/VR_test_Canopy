@@ -1,7 +1,7 @@
 {
-  "collection": "https://api.dc.library.northwestern.edu/api/v2/collections/1c2e2200-c12d-4c7f-8b87-a935c349898a?as=iiif&size=500",
+  "collection": "https://map-view.nls.uk/iiif/2/7440%2F74400299/info.json",
   "featured": [
-    "https://api.dc.library.northwestern.edu/api/v2/works/0d8d4264-ecad-4c03-8e87-248414d643c2?as=iiif"
+    "https://map-view.nls.uk/iiif/2/7440%2F74400299/info.json"
   ],
   "metadata": ["Author", "Place of Publication"]
 }
